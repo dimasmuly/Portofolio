@@ -440,7 +440,7 @@ main { max-width: 1160px; margin: 0 auto; padding: 24px 24px 0; }
   background: radial-gradient(circle, color-mix(in srgb, var(--accent) 70%, transparent), transparent 70%);
   opacity: .4; pointer-events: none;
 }
-.p-outfit .project-body { flex: 1; justify-content: flex-end; position: relative; }
+.p-outfit .project-body { flex: 1; justify-content: center; position: relative; }
 .p-outfit .label, .p-outfit .muted { color: rgba(242, 242, 245, .66); }
 .p-outfit .chips li { background: transparent; border-color: rgba(242, 242, 245, .2); color: rgba(242, 242, 245, .8); }
 .viz-seg {
